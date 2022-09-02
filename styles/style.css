@@ -45,7 +45,7 @@ a.scroll-top {
   display: none;
   position: fixed;
   z-index: 1000;
-  bottom: 35px;
+  bottom: 30px;
   right: 30px;
 }
 
