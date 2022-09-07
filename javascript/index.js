@@ -373,7 +373,6 @@ $(document).ready(async function () {
             <div class="card-content center">
               <span class="card-title">${data.title}</span>
               <p class="grey-text">${data.size}</p>
-              <p class="grey-text">${data.price}</p>
             </div>
           </div>
         </div>
